@@ -1,0 +1,5 @@
+[12-Jul-2021 23:04:30 UTC] PHP Notice:  Undefined index: emailNewsletter in /home/parapenteagencia/public_html/motelrumayor.com/php/newsletter.php on line 3
+[12-Jul-2021 23:07:59 UTC] PHP Notice:  Undefined index: emailNewsletter in /home/parapenteagencia/public_html/motelrumayor.com/php/newsletter.php on line 3
+[13-Jul-2021 02:36:04 UTC] PHP Notice:  Undefined index: emailNewsletter in /home/parapenteagencia/public_html/motelrumayor.com/php/newsletter.php on line 3
+[13-Jul-2021 02:46:30 UTC] PHP Notice:  Undefined variable: name in /home/parapenteagencia/public_html/motelrumayor.com/php/newsletter.php on line 30
+[13-Jul-2021 02:47:35 UTC] PHP Notice:  Undefined variable: name in /home/parapenteagencia/public_html/motelrumayor.com/php/newsletter.php on line 30
